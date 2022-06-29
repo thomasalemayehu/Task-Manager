@@ -1,10 +1,10 @@
 ## Project Title:
 
-    Calculator
+    Task Manager
 
 ## Project Description:
 
-     A Simple web based digital calculator.
+     A Simple web based on persistent task manager and BOM info collector.
 
 ## Tech Stack Used:
 
