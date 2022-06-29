@@ -1,0 +1,9 @@
+i {
+  color: red;
+}
+.drop-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding-right: 2%;
+}
