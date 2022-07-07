@@ -27,3 +27,7 @@
 ## Project Preview
 
 ![Preview, Task Manager](https://raw.githubusercontent.com/thomasalemayehu/Task-Manager/main/assets/readmefiles/img.png)
+
+
+## How to run
+1. Open index.html in a browser
